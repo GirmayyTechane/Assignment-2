@@ -31,3 +31,12 @@ Question # 3 . Write a Program to reverse a word after accepting the input from 
 Answer # 3. 
 s=input('What is your name',)
 print(s[::-1])
+
+Question # 4 . Write a Python Program to print the given string in the format specified in the sample
+
+Answer #4.
+a="WE, THE PEOPLE OF INDIA,"
+b="having solemnly resolved to constitute India into a SOVEREIGN, !"
+c="SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC"
+d="and to secure to all its citizens"
+print(a,"\n\t", b,"\n\t\t", c,"\n\t\t", d)
